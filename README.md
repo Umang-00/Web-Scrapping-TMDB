@@ -11,3 +11,6 @@ This Project is divide in two parts one being my python code that I use to scrap
 
 ## Report Preview
 ![TMDb Image](https://github.com/Umang-00/Web-Scrapping-TMDB/assets/117290368/b537013c-58d8-44f8-a9cc-115cd2374074)
+
+## Data Cleaning Steps Done 
+![Data Cleaning Steps](https://github.com/Umang-00/Web-Scrapping-TMDB/assets/117290368/889fd319-1767-4c10-b994-89fb87afc895)
